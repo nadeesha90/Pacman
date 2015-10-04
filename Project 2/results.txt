@@ -1,0 +1,5 @@
+Pacman emerges victorious! Score: 1285
+Average Score: 1285.0
+Scores:        1285.0
+Win Rate:      1/1 (1.00)
+Record:        Win
